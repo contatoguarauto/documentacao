@@ -24,3 +24,7 @@ Aqui deve ser verificada qual documentação disponível dá base à cobrança d
 As opções são:
 1. **DOCUMENTADA**: Existe documentação suficiente para cobrança da dívida em questão e eventuais registro, confissão de dívida e judicialização.
 2. **SEM DOCUMENTAÇÃO**: A documentação é inexistente, foi perdida, extraviada, ou a dívida não existe.
+
+### fase intermediária
+Ao final do levantamento da fase amarela, deve ser realizada uma reunião para decidir quais clientes serão contactados, o que fazer com os títulos mais antigos e com as dívidas que não estão documentadas.
+
