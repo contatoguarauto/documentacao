@@ -26,5 +26,21 @@ As opções são:
 2. **SEM DOCUMENTAÇÃO**: A documentação é inexistente, foi perdida, extraviada, ou a dívida não existe.
 
 ### fase intermediária
-Ao final do levantamento da fase amarela, deve ser realizada uma reunião para decidir quais clientes serão contactados, o que fazer com os títulos mais antigos e com as dívidas que não estão documentadas.
+Ao final do levantamento da fase amarela, deve ser realizada uma reunião para decidir quais clientes serão contactados, o que fazer com os títulos mais antigos e com as dívidas que não estão documentadas levantar junto ao *sistema/pessoal de vendas* os contatos telefônicos disponíveis e decidir os escopos de renegociação das dívidas. 
 
+### fase laranja
+- RESULTADO CONTATO	
+- RESULTADO NEGOCIAÇÃO	
+- DATA FOLLOW-UP	
+- MONTANTE	
+- PARCELAS
+
+Desta forma, os campos devem ser utilizados como segue.
+
+#### RESULTADO CONTATO
+serve para registrar se o cliente foi contactado ou não (após no mínimo 3 tentativas em horários ou até datas diferentes). Sendos os resultados:
+1. **CONTACTADO**
+2. **NÃO CONTACTADO**
+
+#### RESULTADO NEGOCIAÇÃO
+Tem o objetivo de informar em que resultou o contato de cobrança do cliente. Sendo as opções:
