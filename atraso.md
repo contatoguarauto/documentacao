@@ -1,7 +1,5 @@
 # Script para clientes em atraso
 
-[fase laranja](### fase laranja)
-
 ## informações iniciais
 - O trabalho se divide em três (3) fases, fase amarela, fase intermediária e fase laranja. As fases com cores estão representadas nos cabeçalhos da planilha de controle.
 - Na fase amarela, os dados são preenchidos internamente, com base na documentação disponível.
@@ -48,9 +46,18 @@ serve para registrar se o cliente foi contactado ou não (após no mínimo 3 ten
 Tem o objetivo de informar em que resultou o contato de cobrança do cliente. Sendo as opções:
 1. **NEGOCIAÇÃO À VISTA**: Marcar quando tiver sido negociado pagamento à vista da dívida em questão.
 2. **NEGOCIAÇÃO PARCELADA NO CARTÃO**: Marcar quando o cliente houver manifestado a intenção de pagamento parcelado no cartão de crédito, a ser passado na maquineta ou via link.
-3. **NEGOCIAÇÃO DE PAGAMENTO EM BOLETO**: Marcar quando a negociação do pagamento houver sido efetuada em boleto bancário.
+3. **NEGOCIAÇÃO DE PAGAMENTO EM BOLETO**: Marcar quando a negociação do pagamento houver sido efetuada em boleto bancário. Caso o cliente tenha optado por essa opção, o mesmo deverá assinar um documento de confissão de dívida com a empresa.
 4. **TROCA DE CRÉDITOS (AUTORIZADO PELA DIRETORIA)**: Em algumas situações em que o cliente possui histórico e/ou potencial, seria possível propor uma situação em que o cliente possa continuar comprando, porém com o faturamento em boleto de um valor 100% (ou um outro percentual a combinar) maior do que a compra em questão. **Exemplo**: cliente possui dívida de R$5.000,00 e negociou uma troca de crédito com 100% de compesação por compra; desejando comprar no dia de hoje um valor de R$ 2.000,00. Procede-se da seguinte maneira: faz-se a venda neste valor, com faturamento correspondente; porém, emite-se um boleto no valor de R$ 4.000,00 com redução de R$ 2.000,00 da dívida antiga no sistema financeiro da Guarauto e registro do atual valor (R$ 4.000,00) a vencer no futuro.
-5. **NÃO NEGOCIADO**: A utiliar esta opção quando o cliente não manifestou-se no sentido de resolver a dívda que estava sendo cobrada, pedindo documentação (caso em que deve-se 
+5. **NÃO NEGOCIADO**: A utiliar esta opção quando o cliente não manifestou-se no sentido de resolver a dívda que estava sendo cobrada, pedindo documentação (caso em que deve-se registrar o motivo em [OBSERVAÇÃO](####OBSERVAÇÃO)).
+
+#### DATA FOLLOW-UP
+Informar aqui a data que o cliente marcou para efetuar o pagamento, passar o cartão, assinar promissórias, etc.
+
+#### MONTANTE
+Total do valor negociado a receber pela Guarauto, incluso juros, multas, taxas, etc.
+
+#### OBSERVAÇÃO
+Colocar aqui informações que se julguem importantes.
 
 
 ## Pontos críticos a considerar
