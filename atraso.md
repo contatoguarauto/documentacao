@@ -1,7 +1,5 @@
 # Script para clientes em atraso
 
-[link](#### DATA FOLLOW-UP)
-
 ## informações iniciais
 - O trabalho se divide em três (3) fases, fase amarela, fase intermediária e fase laranja. As fases com cores estão representadas nos cabeçalhos da planilha de controle.
 - Na fase amarela, os dados são preenchidos internamente, com base na documentação disponível.
