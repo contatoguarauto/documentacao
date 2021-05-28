@@ -1,6 +1,6 @@
 # Script para clientes em atraso
 
-[fase laranja]:(### fase laranja)
+[fase laranja](### fase laranja)
 
 ## informações iniciais
 - O trabalho se divide em três (3) fases, fase amarela, fase intermediária e fase laranja. As fases com cores estão representadas nos cabeçalhos da planilha de controle.
