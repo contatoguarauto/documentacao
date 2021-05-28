@@ -44,3 +44,12 @@ serve para registrar se o cliente foi contactado ou não (após no mínimo 3 ten
 
 #### RESULTADO NEGOCIAÇÃO
 Tem o objetivo de informar em que resultou o contato de cobrança do cliente. Sendo as opções:
+1. **NEGOCIAÇÃO À VISTA**: Marcar quando tiver sido negociado pagamento à vista da dívida em questão.
+2. **NEGOCIAÇÃO PARCELADA NO CARTÃO**: Marcar quando o cliente houver manifestado a intenção de pagamento parcelado no cartão de crédito, a ser passado na maquineta ou via link.
+3. **NEGOCIAÇÃO DE PAGAMENTO EM BOLETO**: Marcar quando a negociação do pagamento houver sido efetuada em boleto bancário.
+4. **TROCA DE CRÉDITOS (AUTORIZADO PELA DIRETORIA)**: Em algumas situações em que o cliente possui histórico e/ou potencial, seria possível propor uma situação em que o cliente possa continuar comprando, porém com o faturamento em boleto de um valor 100% (ou um outro percentual a combinar) maior do que a compra em questão. **exemplo**: cliente possui dívida de R$5.000,00 e negociou uma troca de crédito com 100% de compesação por compra; desejando comprar no dia de hoje um valor de R$ 2.000,00. Procede-se da seguinte maneira: faz-se a venda neste valor, com faturamento correspondente; porém, emite-se um boleto no valor de R$ 4.000,00 com redução de R$ 2.000,00 da dívida antiga no sistema financeiro da Guarauto e registro do atual valor (R$ 4.000,00) a vencer no futuro.
+
+
+## Pontos críticos a considerar
+* Pagamento à vista engloba também depósito e/ou cartão de débito.
+* Quando a negociação do pagamento for em cartão de crédito, considerar as taxas cobradas dos cartões. Considerar também a emissão de link para pagamento do valor renegociado.
